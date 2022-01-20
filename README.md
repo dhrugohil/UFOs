@@ -8,17 +8,18 @@ Unidentified flying objects (also known as UFOs) are commonly associated with ma
 ### Based on Country
 
 Our first parameter of this analysis is the country, "According to the data, which country has seen the UFOs at most". The screenshot below shows that the United States has had 109 more sightings than Canada which has only 2. Because NUFORC is an American institution, most Americans were confident in their ability to report what they witnessed. The above figures support the idea that the United States has a higher density of sightings than the other country. Now we can check how they're spread among the states here in the US.
-![Alt country sightings](./assets/country_US.png?raw=true "Webpage on US country search")
-![Alt country sightings](./assets/country_CA.png?raw=true "Webpage on CA country search")
+![country_US](https://user-images.githubusercontent.com/93164021/150365783-0182bab8-6319-4df7-8026-a622619226e5.png)
+![country_CA](https://user-images.githubusercontent.com/93164021/150365877-b8b81917-3a41-4378-9ec3-198c4f3f69cf.png)
 
 ### Based on States
 
 As we have analyzed that the United States has the most and densest sightings; the amount of sightings in each state can be analyzed here.
 When analyzed the states data, it is found that the "ca", California has the highest sightings, i.e 30 and "fl", Florida comes at second place with 10 sightings. Below is the supporting image which has been taken from the webpage of ca and fl search along with the bar graph of top 3 states that has the most number of sightings.
-![Alt State sightings](./assets/state_ca.png?raw=true "Webpage on "ca" state search")
-![Alt State sightings](./assets/state_Fl.png?raw=true "Webpage on "fl" state search")
+![state_Ca](https://user-images.githubusercontent.com/93164021/150365992-e667f77a-ca80-4b2a-a0e9-c531aa12f1f1.png)
 
-![Alt state sightings](./assets/sightings_states.png?raw=true "Top 3 states based on number of sightings search")
+![state_Fl](https://user-images.githubusercontent.com/93164021/150366057-9fb25616-8bc4-4d24-8cf5-30c627afbe33.png)
+
+![sightings_states](https://user-images.githubusercontent.com/93164021/150366125-dcd0923f-5a80-430d-b3bf-8b7c3d7efdd8.png)
 
 ### Based on City
 
@@ -28,9 +29,10 @@ City named "el cajon" has the most number of sightings in California, US. Below 
 ### Based on Shapes
 
 After analyzing the location of the UFOs sightings, another parameter that we have searched and analyzed to know more in-depth data is the shape of the UFOs. The bar chart created using the web page search results it is found that the most common shape mentioned is a generic shape labelled "light," which is commonly mistaken for a dazzling halo by those who have experienced this experience. Another very common shape was "triangle". Below is the bar chart along with the images to illustrate the above outcomes.
-![Alt country sightings](./assets/shape_light.png?raw=true "Webpage on "light" shape search")
-![Alt country sightings](./assets/shape_triangle.png?raw=true "Webpage on "triangle" shape search")
-![Alt shape sightings](./assets/top5_sightings.png?raw=true "Top 5 shapes based on the number of sightings ")
+
+![shape_light](https://user-images.githubusercontent.com/93164021/150366211-b137c154-7493-429f-8190-51e642563b74.png)
+![shape_triangle](https://user-images.githubusercontent.com/93164021/150366272-47d6cacf-906b-4977-8b2c-33e217463d4f.png)
+![top5_sightings](https://user-images.githubusercontent.com/93164021/150366315-851296c3-70e0-4e62-8d49-dce7a84c224f.png)
 
 ### Based on Shapes and Location and date
 
